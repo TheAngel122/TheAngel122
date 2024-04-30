@@ -1,0 +1,7 @@
+echo "# TheAngel122" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M principal 
+git remoto agregar origen https://github.com/TheAngel122/TheAngel122.git
+ git push - su origen principal
